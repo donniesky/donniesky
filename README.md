@@ -13,6 +13,10 @@
 - 😄 Pronouns: Action speak louder than words!
 - ⚡ Fun fact: 👫 🐶 🐈 :octocat: 🏀 🚴 🎮 :hearts: 🍚 ✈️
 
+<!-- code_time starts -->
+
+<!-- code_time ends -->
+
 [<img src="https://img.shields.io/badge/Twitter-%40donniesky-blue">](https://twitter.com/donnieSky815)
 [<img src="https://img.shields.io/badge/Email-donniesky.me%40gmail.com-orange">](mailto:donniesky.me@gmail.com)
 
