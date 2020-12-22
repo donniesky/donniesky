@@ -16,6 +16,7 @@ function generateProgressBar() {
 
 const readme = `\
 ### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
+
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
 ![donniesky's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=donniesky&show_icons=true&theme=dracula)
@@ -34,7 +35,7 @@ const readme = `\
 
 ---
 ⏰ Updated on ${new Date().toUTCString()}
-![Progress Bar CI](https://github.com/donniesky/donniesky/workflows/Progress%20Bar%20CI/badge.svg)
-\`
+![Progress Bar CI](https://github.com/donniesky/donniesky/workflows/Progress%20Bar%20CI/badge.svg)\
+`
 
 console.log(readme)
