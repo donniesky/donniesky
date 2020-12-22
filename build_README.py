@@ -6,6 +6,7 @@ import pathlib
 import re
 import os
 import datetime
+import logging
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -38,7 +39,9 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
 
     code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
+    logging.info(code_time_text)
 
     rewritten = replace_chunk(readme_contents, "code_time", code_time_text)
+    logging.info(rewritten)
 
     readme.open("w").write(rewritten)
