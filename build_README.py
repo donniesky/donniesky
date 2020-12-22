@@ -30,7 +30,7 @@ def formatGMTime(timestamp):
     
 def fetch_code_time():
     return httpx.get(
-        "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/"
+        "https://gist.github.com/donniesky/f1cb72d6b3792a01b11ad06820022053/raw/"
     )
 
 if __name__ == "__main__":
