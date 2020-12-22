@@ -1,6 +1,6 @@
 ### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
-⏳ Year progress { █████████████████████████████▁ } 97.41 %
+⏳ Year progress { █████████████████████████████▁ } 97.48 %
 
 ![donniesky's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=donniesky&show_icons=true&theme=dracula)
 
@@ -17,6 +17,6 @@
 [<img src="https://img.shields.io/badge/Email-donniesky.me%40gmail.com-orange">](mailto:donniesky.me@gmail.com)
 
 ---
-⏰ Updated on Tue, 22 Dec 2020 12:19:08 GMT
+⏰ Updated on Tue, 22 Dec 2020 18:23:39 GMT
 
 ![Progress Bar CI](https://github.com/donniesky/donniesky/workflows/Progress%20Bar%20CI/badge.svg)
