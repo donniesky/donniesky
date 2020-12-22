@@ -15,6 +15,10 @@
 
 <!-- code_time starts -->
 
+```text
+Java           31 mins  ████████████████████▒░░░  71.1%
+```
+
 <!-- code_time ends -->
 
 [<img src="https://img.shields.io/badge/Twitter-%40donniesky-blue">](https://twitter.com/donnieSky815)
