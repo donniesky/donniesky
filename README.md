@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
 ![donniesky's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=donniesky&show_icons=true&theme=dracula)
 
