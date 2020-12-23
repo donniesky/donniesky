@@ -3,7 +3,9 @@
 <!-- year_progress starts -->
 
 ```text
-⏳ Year progress ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁ 97.81%
+⏳ Year progress   ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁ 97.81%
+⏰ Month progress ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁ 70.97%
+⌚ Day progress   ▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 29.17%
 ```
 
 <!-- year_progress ends -->
