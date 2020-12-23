@@ -75,8 +75,8 @@ if __name__ == "__main__":
     year_progress_text = "\n```text\n"\
     "⏳ Year progress   "+year_progress+" "+str(year_percents)+"%\n"\
     "⏰ Month progress "+month_progress+" "+str(month_percents)+"%\n"\
-    "⌚ Day progress   "+day_progress+" "+str(day_percents)+"%\n
-    ```\n"
+    "⌚ Day progress   "+day_progress+" "+str(day_percents)+"%\n"\
+    "```\n"
     logging.info(year_progress_text)
 
     rewritten = replace_chunk(readme_contents, "year_progress", year_progress_text)
