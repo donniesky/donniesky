@@ -72,9 +72,9 @@ if __name__ == "__main__":
     day_percents = get_day_progress(dt)
     day_progress = make_progress_string(day_percents)
     
-    year_progress_text = "\n```text\n"+
-    "⏳ Year progress   "+year_progress+" "+str(year_percents)+"%\n"+
-    "⏰ Month progress "+month_progress+" "+str(month_percents)+"%\n"+
+    year_progress_text = "\n```text\n"\
+    "⏳ Year progress   "+year_progress+" "+str(year_percents)+"%\n"\
+    "⏰ Month progress "+month_progress+" "+str(month_percents)+"%\n"\
     "⌚ Day progress   "+day_progress+" "+str(day_percents)+"%\n
     ```\n"
     logging.info(year_progress_text)
