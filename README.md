@@ -1,6 +1,8 @@
 ### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
-⏳ Year progress { █████████████████████████████▁ } 97.55 %
+<!-- year_progress starts -->
+
+<!-- year_progress ends -->
 
 ![donniesky's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=donniesky&show_icons=true&theme=dracula)
 
@@ -12,6 +14,12 @@
 - 📫 How to reach me: https://t.me/donnieSky
 - 😄 Pronouns: Action speak louder than words!
 - ⚡ Fun fact: 👫 🐶 🐈 :octocat: 🏀 🚴 🎮 :hearts: 🍚 ✈️
+
+#### 🏊‍♂️ <a href="https://gist.github.com/donniesky/f1cb72d6b3792a01b11ad06820022053" target="_blank">Weekly Development Breakdown</a>
+
+<!-- code_time starts -->
+
+<!-- code_time ends -->
 
 [<img src="https://img.shields.io/badge/Twitter-%40donniesky-blue">](https://twitter.com/donnieSky815)
 [<img src="https://img.shields.io/badge/Email-donniesky.me%40gmail.com-orange">](mailto:donniesky.me@gmail.com)
