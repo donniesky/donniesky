@@ -2,6 +2,10 @@
 
 <!-- year_progress starts -->
 
+```text
+⏳ Year progress ████████████████ 97.81%
+```
+
 <!-- year_progress ends -->
 
 ![donniesky's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=donniesky&show_icons=true&theme=dracula)
@@ -18,6 +22,10 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/donniesky/f1cb72d6b3792a01b11ad06820022053" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
+
+```text
+404: Not Found
+```
 
 <!-- code_time ends -->
 
