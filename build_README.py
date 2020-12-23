@@ -51,7 +51,7 @@ def get_day_progress(dt):
 
 def make_progress_string(percent):
     blocks = 30
-    percent = percent * blocks / 100
+    percent = math.floor(percent * blocks / 100)
     logging.info(percent)
     return ''.join(["█" if i < percent else "▁" for i in range(blocks)])
 
