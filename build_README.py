@@ -66,7 +66,17 @@ if __name__ == "__main__":
     year_percents = get_year_progress(dt)
     year_progress = make_progress_string(year_percents)
     
-    year_progress_text = "\n```text\n⏳ Year progress "+year_progress+" "+str(year_percents)+"%\n```\n"
+    month_percents = get_month_progress(dt)
+    month_progress = make_progress_string(month_percents)
+
+    day_percents = get_day_progress(dt)
+    day_progress = make_progress_string(day_percents)
+    
+    year_progress_text = "\n```text\n
+    ⏳ Year progress   "+year_progress+" "+str(year_percents)+"%\n
+    ⏰ Month progress "+month_progress+""+str(month_percents)+"%\n
+    ⌚ Day progress   "+day_progress+""+str(day_percents)+"%\n
+    ```\n"
     logging.info(year_progress_text)
 
     rewritten = replace_chunk(readme_contents, "year_progress", year_progress_text)
