@@ -3,7 +3,7 @@
 <!-- year_progress starts -->
 
 ```text
-⏳ Year progress █████████████████████████████▒ 97.81%
+⏳ Year progress ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁ 97.81%
 ```
 
 <!-- year_progress ends -->
