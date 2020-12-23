@@ -8,6 +8,7 @@ import os
 import datetime
 import logging
 import pendulum
+import math
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
