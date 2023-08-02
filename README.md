@@ -2,12 +2,9 @@
 <!-- year_progress starts -->
 
 ```text
-⏳ Year  progress ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 6.58%
-⏳ Month progress ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁ 74.19%
-⏳ Day   progress ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁ 75.0%
-⏳ Year  progress ▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 6.85%
-⏳ Month progress ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁ 77.42%
-⏳ Day   progress ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 4.17%
+⏳ Year  progress ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁ 58.63%
+⏳ Month progress ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 3.23%
+⏳ Day   progress ▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 8.33%
 ```
 
 <!-- year_progress ends -->
@@ -22,8 +19,11 @@
 - ⚡ Fun fact: 👫 🐶 🐈 :octocat: 🏀 🚴 🎮 :hearts: 🍚 ✈️
 #### 🏊‍♂️ <a href="https://gist.github.com/donniesky/f1cb72d6b3792a01b11ad06820022053" target="_blank">Weekly Development Breakdown</a>
 <!-- code_time starts -->
+
 ```text
+
 ```
+
 <!-- code_time ends -->
 [<img src="https://img.shields.io/badge/Twitter-%40donniesky-blue">](https://twitter.com/donnieSky815)
 [<img src="https://img.shields.io/badge/Email-donniesky.me%40gmail.com-orange">](mailto:donniesky.me@gmail.com)
