@@ -8,7 +8,7 @@
 - 📫 How to reach me: https://t.me/donnieSky
 - 😄 Pronouns: Action speak louder than words!
 - ⚡ Fun fact: 👫 🐶 🐈 :octocat: 🏀 🚴 🎮 :hearts: 🍚 ✈️
-#### 🏊‍♂️ <a href="https://gist.github.com/donniesky/f1cb72d6b3792a01b11ad06820022053" target="_blank">Weekly Development Breakdown</a>
+
 [<img src="https://img.shields.io/badge/Twitter-%40donniesky-blue">](https://twitter.com/donnieSky815)
 [<img src="https://img.shields.io/badge/Email-donniesky.me%40gmail.com-orange">](mailto:donniesky.me@gmail.com)
 
