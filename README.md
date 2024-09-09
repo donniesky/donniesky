@@ -1,13 +1,4 @@
 ### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm donniesky 
-<!-- year_progress starts -->
-
-```text
-⏳ Year  progress ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁ 67.67%
-⏳ Month progress ▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 10.0%
-⏳ Day   progress ▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 33.33%
-```
-
-<!-- year_progress ends -->
 ![donniesky's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=donniesky&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donniesky&hide=TeX&layout=compact&theme=dracula)
 - 🎓 I’m graduated at Renmin University of China
