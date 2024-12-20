@@ -2,7 +2,7 @@
 ![donniesky's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=donniesky&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donniesky&hide=TeX&layout=compact&theme=dracula)
 - 🎓 I’m graduated at Renmin University of China
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on anything about Android
 - 💬 Ask me about everything you want talk with me
 - 📫 How to reach me: https://t.me/donnieSky
